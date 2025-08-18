@@ -31,9 +31,14 @@
 </head>
 <body>
   <div class="chart-wrapper">
-    <h1>Prix électricité — Avec vs Sans ARENH</h1>
+    <h1 style="font-family: 'Avenir', 'Poppins', 'Inter', sans-serif;">
+      Prix électricité — Avec vs Sans ARENH
+    </h1>
+
     <canvas id="myChart" aria-label="Comparatif ARENH" role="img"></canvas>
   </div>
+
+  
 
   <script>
     // URL brute GitHub Pages
@@ -101,7 +106,7 @@
                 borderColor: "#5a52ff",
                 backgroundColor: gWith,
                 pointRadius: 0,
-                borderWidth: 3,
+                borderWidth: 1.5,
                 fill: true,
                 tension: 0.3,
               },
@@ -111,7 +116,7 @@
                 borderColor: "#0fc4b2",
                 backgroundColor: gWithout,
                 pointRadius: 0,
-                borderWidth: 3,
+                borderWidth: 1.5,
                 fill: true,
                 tension: 0.3,
               }
