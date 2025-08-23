@@ -813,5 +813,10 @@
     "Date": "2025-08-21",
     "withARENH": 0.11270017915428389,
     "withoutARENH": 0.12221955455530681
+  },
+  {
+    "Date": "2025-08-22",
+    "withARENH": 0,
+    "withoutARENH": 0
   }
 ]
