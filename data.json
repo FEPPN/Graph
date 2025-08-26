@@ -812,11 +812,16 @@
   {
     "Date": "2025-08-21",
     "withARENH": 0.11270017915428389,
-    "withoutARENH": 0.12221955455530681
+    "withoutARENH": 0.12527541755293248
   },
   {
     "Date": "2025-08-22",
-    "withARENH": 0,
-    "withoutARENH": 0
+    "withARENH": 0.11268327116512047,
+    "withoutARENH": 0.1252624647003083
+  },
+  {
+    "Date": "2025-08-25",
+    "withARENH": 0.1127160429922345,
+    "withoutARENH": 0.12528715689629005
   }
 ]
